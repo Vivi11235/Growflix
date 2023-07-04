@@ -3,7 +3,7 @@
 }
 
 #section{
-    background-image: url(/assets/banner-initial.png);
+    background-image: url(/Growflix/assets/banner-initial.png);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -29,7 +29,7 @@
 }
 
 .accordion-button::after {
-    background-image: url("/assets/add.svg") !important;
+    background-image: url("/Growflix/assets/add.svg") !important;
 }
 
 .custom-accordion {
@@ -48,6 +48,3 @@
     font-size: 25px;
 }
 
-.display-7{
-    font-size: 48px;
-}
